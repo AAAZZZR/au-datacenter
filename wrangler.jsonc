@@ -1,0 +1,14 @@
+{
+  "name": "au-datacenter",
+  "compatibility_date": "2026-09-15",
+  "workers_dev": false,
+  "routes": [
+    {
+      "pattern": "audatacenter.leverag.xyz",
+      "custom_domain": true
+    }
+  ],
+  "assets": {
+    "directory": "./public"
+  }
+}
